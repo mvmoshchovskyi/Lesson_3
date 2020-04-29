@@ -1,0 +1,17 @@
+    .user {
+        width: 200px;
+        background: silver;
+        margin-bottom: 10px;
+    }
+    .address {
+
+        width: 200px;
+        background: yellow;
+        margin-bottom: 5px;
+    }
+    .company {
+
+        width: 200px;
+        background: blanchedalmond;
+        margin-bottom: 5px;
+    }
